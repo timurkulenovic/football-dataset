@@ -1,0 +1,82 @@
+VENUE,H_TEAM,LAT,LNG,LOCATION,MANUAL_ENTRY
+Allianz Arena,Nice,48.218764,11.6247555,"Schwabing-Freimann, München, Kreisfreie Stadt München, Oberbayern, Bayern, Germany",False
+Allianz Riviera,Nice,43.7051012,7.1926095,"Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France",False
+Altrad Stadium,Montpellier,,,,True
+Grand Stade Lille Métropole,Lille,50.6119667,3.1304899,"Villeneuve-d'Ascq, Nord, Hauts-de-France, France",False
+Groupama Stadium,Lyon,45.76529499999999,4.982029,"Décines-Charpieu, Rhône, Auvergne-Rhône-Alpes, France",False
+La Beaujoire-Louis-Fonteneau,Nantes,47.2560233,-1.524675,"Nantes, Loire-Atlantique, Pays de la Loire, France",False
+Leon-Bollée,Le Mans,,,,True
+Leon-Boll�e,Le Mans,,,,True
+MMArena,Caen,47.9592601,0.2231634,"Le Mans, Sarthe, Pays de la Loire, France",False
+Matmut Atlantique,Bordeaux,44.89735830000001,-0.5615863,"Bordeaux, Gironde, Nouvelle-Aquitaine, France",False
+Municipal du Ray,Nice,43.7236959,7.259158599999999,"Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France",False
+Nouveau Stade Bordeaux,Bordeaux,44.89735830000001,-0.5615863,"Bordeaux, Gironde, Nouvelle-Aquitaine, France",False
+"Parc Municipal des Sports, Toulouse",Toulouse,43.604652,1.444209,"Toulouse, Haute-Garonne, Occitanie, France",False
+Parc OL,Lyon,45.76529499999999,4.982029,"Décines-Charpieu, Rhône, Auvergne-Rhône-Alpes, France",False
+Parc des Princes,PSG,48.8414356,2.2530487,"Paris, Département de Paris, Île-de-France, France",False
+Parc des Sports,Evian,45.916291,6.1182468,"Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France",False
+"Parc des Sports, Annecy",Evian,45.916291,6.1182468,"Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France",False
+Roazhon Park,Rennes,48.1074881,-1.7128664,"Rennes, Ille-et-Vilaine, Bretagne, France",False
+Stade Abbe-Deschamps,Auxerre,47.7866991,3.588655499999999,"Auxerre, Yonne, Bourgogne-Franche-Comté, France",False
+Stade Abbé-Deschamps,Auxerre,47.7866991,3.588655499999999,"Auxerre, Yonne, Bourgogne-Franche-Comté, France",False
+Stade Abbé-Deschamps,SC Bastia,47.7866991,3.588655499999999,"Auxerre, Yonne, Bourgogne-Franche-Comté, France",False
+Stade Ange-Casanova,GFC Ajaccio,41.9506618,8.771970099999999,"Ajaccio, Corse-du-Sud, Corse, France",False
+Stade Armand-Cesari,SC Bastia,42.6514524,9.4427034,"Furiani, Haute-Corse, Corse, France",False
+Stade Armand-Cesari-Furiani,SC Bastia,42.6514524,9.4427034,"Furiani, Haute-Corse, Corse, France",False
+Stade Auguste Delaune II,Reims,49.24705489999999,4.0239334,"Reims, Marne, Grand Est, France",False
+Stade Auguste-Delaune,Reims,49.24705489999999,4.0239334,"Reims, Marne, Grand Est, France",False
+Stade Auguste-Delaune II,Reims,49.24705489999999,4.0239334,"Reims, Marne, Grand Est, France",False
+Stade Bonal,Sochaux,47.5123863,6.8105468,"Montbéliard, Doubs, Bourgogne-Franche-Comté, France",False
+Stade Felix-Bollaert,Lens,50.4328789,2.8150836,"Lens, Pas-de-Calais, Hauts-de-France, France",False
+Stade Fernaud Fournier,Arles-Avignon,43.6692521,4.6302575,"Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",False
+Stade Francis Le Ble,Brest,48.4027033,-4.462005899999999,"Brest, Finistère, Bretagne, France",False
+Stade Francis-Le Blé,Brest,48.4027033,-4.462005899999999,"Brest, Finistère, Bretagne, France",False
+Stade Francis-le Blé,Brest,48.4027033,-4.462005899999999,"Brest, Finistère, Bretagne, France",False
+Stade Francois-Coty,AC Ajaccio,41.9310644,8.7771172,"Ajaccio, Corse-du-Sud, Corse, France",False
+Stade François-Coty,AC Ajaccio,41.9310644,8.7771172,"Ajaccio, Corse-du-Sud, Corse, France",False
+Stade Félix Bollaert-Delélis,Lens,50.4328789,2.8150836,"Lens, Pas-de-Calais, Hauts-de-France, France",False
+Stade Gabriel-Montpied,Clermont Foot,45.815773,3.1216781,"Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France",False
+Stade Gaston Gérard,Dijon,47.3243228,5.067493799999999,"Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France",False
+Stade Gaston-Gérard,Dijon,47.3243228,5.067493799999999,"Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France",False
+Stade Geoffroy-Guichard,Saint-Etienne,45.4607733,4.3901511,"Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France",False
+Stade Jacques Chaban-Delmas,Bordeaux,44.8292357,-0.5983086,"Bordeaux, Gironde, Nouvelle-Aquitaine, France",False
+Stade Jacques-Chaban-Delmas,Bordeaux,44.8292357,-0.5983086,"Bordeaux, Gironde, Nouvelle-Aquitaine, France",False
+Stade Jean-Bouin,Angers,48.8427961,2.2527334,"Paris, Département de Paris, Île-de-France, France",False
+Stade Jean-Laville,SC Bastia,46.5951147,4.0559848,"Gueugnon, Saône-et-Loire, Bourgogne-Franche-Comté, France",False
+Stade Louis II,Monaco,43.72758169999999,7.4156038,"Monaco, Monaco",False
+Stade Marcel Picot,Nancy,48.6956691,6.2111531,"Tomblaine, Meurthe-et-Moselle, Grand Est, France",False
+Stade Marcel-Picot,Nancy,48.6956691,6.2111531,"Tomblaine, Meurthe-et-Moselle, Grand Est, France",False
+Stade Michel-d'Ornano,Caen,49.1794872,-0.3967094,"Caen, Calvados, Normandie, France",False
+Stade Municipal de Roudourou,Guingamp,48.5651806,-3.1643664,"Guingamp, Côtes-d'Armor, Bretagne, France",False
+Stade Municipal du Ray,Nice,43.7236959,7.259158599999999,"Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France",False
+Stade Nungesser,Valenciennes,,,,True
+Stade Océane,Amiens,49.4993417,0.1692945,"Le Havre, Seine-Maritime, Normandie, France",False
+Stade Parsemain,AC Ajaccio,43.469034,4.9491936,"Fos-sur-Mer, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",False
+Stade Parsemain,SC Bastia,43.469034,4.9491936,"Fos-sur-Mer, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",False
+Stade Pierre Mauroy,Lille,50.6119667,3.1304899,"Villeneuve-d'Ascq, Nord, Hauts-de-France, France",False
+Stade Pierre-Mauroy,Lille,50.6119667,3.1304899,"Villeneuve-d'Ascq, Nord, Hauts-de-France, France",False
+Stade Raymond-Kopa,Angers,47.4610005,-0.5307170999999999,"Angers, Maine-et-Loire, Pays de la Loire, France",False
+Stade Saint-Symphorien,Metz,49.11017469999999,6.1601608,"Longeville-lès-Metz, Moselle, Grand Est, France",False
+Stade Vélodrome,Marseille,43.269827,5.395887300000001,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",False
+Stade V�lodrome,Marseille,43.269827,5.395887300000001,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",False
+Stade de France,Lens,48.9244592,2.3601645,"Saint-Denis, Seine-Saint-Denis, Île-de-France, France",False
+Stade de Gerland,Lyon,45.723699,4.8321401,"Lyon, Rhône, Auvergne-Rhône-Alpes, France",False
+Stade de l'Abbé-Deschamps,Auxerre,47.7866991,3.588655499999999,"Auxerre, Yonne, Bourgogne-Franche-Comté, France",False
+Stade de l'Aube,Nice,48.3075473,4.0984348,"Troyes, Aube, Grand Est, France",False
+Stade de l'Aube,Troyes,48.3075473,4.0984348,"Troyes, Aube, Grand Est, France",False
+Stade de la Libération,Boulogne,50.72392259999999,1.6192773,"Boulogne-sur-Mer, Pas-de-Calais, Hauts-de-France, France",False
+Stade de la Lib�ration,Boulogne,50.72392259999999,1.6192773,"Boulogne-sur-Mer, Pas-de-Calais, Hauts-de-France, France",False
+Stade de la Licorne,Amiens,49.8941524,2.2634041,"Amiens, Somme, Hauts-de-France, France",False
+Stade de la Licorne,Lens,49.8941524,2.2634041,"Amiens, Somme, Hauts-de-France, France",False
+Stade de la Meinau,Strasbourg,48.559566,7.7535729,"Strasbourg, Bas-Rhin, Grand Est, France",False
+Stade de la Mosson,Montpellier,43.6221434,3.8120627,"Montpellier, Hérault, Occitanie, France",False
+Stade de la Route-de-Lorient,Rennes,48.1074881,-1.7128664,"Rennes, Ille-et-Vilaine, Bretagne, France",False
+Stade des Alpes,Grenoble,45.1874353,5.7401278,"Grenoble, Isère, Auvergne-Rhône-Alpes, France",False
+Stade des Costières,Nimes,43.8160198,4.359258,"Nîmes, Gard, Occitanie, France",False
+Stade du Hainaut,Valenciennes,50.34842159999999,3.5317617,"Valenciennes, Nord, Hauts-de-France, France",False
+Stade du Moustoir,Lorient,47.7486606,-3.3693126,"Lorient, Morbihan, Bretagne, France",False
+Stade du Ray,Nice,43.7236959,7.259158599999999,"Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France",False
+Stadium Lille Métropole,Lille,50.631052,3.1359077,"Villeneuve-d'Ascq, Nord, Hauts-de-France, France",False
+Stadium Lille M�tropole,Lille,50.631052,3.1359077,"Villeneuve-d'Ascq, Nord, Hauts-de-France, France",False
+Stadium Municipal,Toulouse,43.5832972,1.434048,"Toulouse, Haute-Garonne, Occitanie, France",False
+"Stadium Municipal, Toulouse",Toulouse,43.5832972,1.434048,"Toulouse, Haute-Garonne, Occitanie, France",False

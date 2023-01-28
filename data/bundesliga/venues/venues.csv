@@ -1,0 +1,63 @@
+,VENUE,H_TEAM,LAT,LNG,LOCATION,MANUAL_ENTRY_x,CAPACITY,MANUAL_ENTRY_y
+0,AWD-Arena,Hannover,52.360017,9.731225,"Mitte, Hannover, Region Hannover, Niedersachsen, Germany",False,49200,False
+1,Allianz Arena,Bayern,48.218764,11.6247555,"Schwabing-Freimann, München, Kreisfreie Stadt München, Oberbayern, Bayern, Germany",False,75024,False
+2,An der Alten Försterei,Union Berlin,52.45743539999999,13.5681605,"Bezirk Treptow-Köpenick, Berlin, Kreisfreie Stadt Berlin, Berlin, Germany",False,22012,False
+3,Audi Sportpark,Ingolstadt,48.745548,11.4857571,"Ingolstadt, Kreisfreie Stadt Ingolstadt, Upper Bavaria, Bavaria, Germany",False,15800,False
+4,BORUSSIA-PARK,Borussia M.Gladbach,51.1745698,6.3855055,"West, Mönchengladbach, Mönchengladbach, Düsseldorf, Nordrhein-Westfalen, Germany",False,54057,False
+5,Badenova-Stadion,Freiburg,47.988917,7.892876999999999,"Ost, Freiburg im Breisgau, Kreisfreie Stadt Freiburg im Breisgau, Freiburg, Baden-Württemberg, Germany",False,24000,False
+6,BayArena,Leverkusen,51.0382091,7.0022566,"Wiesdorf, Leverkusen, Kreisfreie Stadt Leverkusen, Köln, Nordrhein-Westfalen, Germany",False,30210,False
+7,Benteler-Arena,Paderborn,51.7307816,8.7110652,"Paderborn, Kreis Paderborn, Detmold, Nordrhein-Westfalen, Germany",False,15000,False
+8,Borussia-Park,Borussia M.Gladbach,51.1745698,6.3855055,"West, Mönchengladbach, Mönchengladbach, Düsseldorf, Nordrhein-Westfalen, Germany",False,54057,False
+9,Coface Arena,Mainz,49.9839442,8.2243816,"Mainz, Mainz, Rheinland-Pfalz, Germany",False,34000,False
+10,Commerzbank Arena,Eintracht Frankfurt,50.0685807,8.645472,"Frankfurt am Main Süd, Frankfurt am Main, Kreisfreie Stadt Frankfurt am Main, Darmstadt, Hessen, Germany",False,51500,False
+11,Commerzbank-Arena,Eintracht Frankfurt,50.0685807,8.645472,"Frankfurt am Main Süd, Frankfurt am Main, Kreisfreie Stadt Frankfurt am Main, Darmstadt, Hessen, Germany",False,51500,False
+12,Deutsche Bank Park,Eintracht Frankfurt,50.0685807,8.645472,"Frankfurt am Main Süd, Frankfurt am Main, Kreisfreie Stadt Frankfurt am Main, Darmstadt, Hessen, Germany",False,51500,False
+13,Dreisamstadion,Freiburg,47.988917,7.892876999999999,"Ost, Freiburg im Breisgau, Kreisfreie Stadt Freiburg im Breisgau, Freiburg, Baden-Württemberg, Germany",False,24000,False
+14,ESPRIT arena,Fortuna Duesseldorf,51.2615824,6.7331902,"Stadtbezirk 5, Düsseldorf, Düsseldorf, Düsseldorf, Nordrhein-Westfalen, Germany",False,54600,False
+15,EasyCredit-Stadion,Nuernberg,49.4262526,11.1257076,"Südöstliche Außenstadt, Nürnberg, Nürnberg, Mittelfranken, Bayern, Germany",False,50000,False
+16,Eintracht-Stadion,Eintracht Braunschweig,52.2900556,10.5206206,"Nordstadt, Braunschweig, Kreisfreie Stadt Braunschweig, Niedersachsen, Germany",False,0,True
+17,Europa-Park Stadion,Freiburg,48.021075,7.829179799999999,"Nord, Freiburg im Breisgau, Kreisfreie Stadt Freiburg im Breisgau, Freiburg, Baden-Württemberg, Germany",False,34700,False
+18,Fritz-Walter-Stadion,Kaiserslautern,49.4341714,7.7768069,"Kaiserslautern, Kaiserslautern, Rheinland-Pfalz, Germany",False,49850,False
+19,Grundig Stadion,Nuernberg,49.4262526,11.1257076,"Südöstliche Außenstadt, Nürnberg, Nürnberg, Mittelfranken, Bayern, Germany",False,50000,False
+20,HDI Arena,Hannover,52.360017,9.731225,"Mitte, Hannover, Region Hannover, Niedersachsen, Germany",False,49200,False
+21,HDI-Arena,Hannover,52.360017,9.731225,"Mitte, Hannover, Region Hannover, Niedersachsen, Germany",False,49200,False
+22,Imtech Arena,Hamburg,53.5871279,9.8986004,"Altona, Hamburg, Hamburg, Hamburg, Germany",False,57000,False
+23,Jonathan-Heimes-Stadion am Böllenfalltor,Darmstadt,49.8576828,8.6723311,"Darmstadt-Ost, Darmstadt, Kreisfreie Stadt Darmstadt, Darmstadt, Hessen, Germany",False,17000,False
+24,MAGE SOLAR Stadion,Freiburg,47.988917,7.892876999999999,"Ost, Freiburg im Breisgau, Kreisfreie Stadt Freiburg im Breisgau, Freiburg, Baden-Württemberg, Germany",False,24000,False
+25,MEWA ARENA,Mainz,49.98403384050516,8.224435248092398,"Eugen-Salomon-Straße 1, 55128 Mainz, Deutschland",True,34000,False
+26,Max-Morlock-Stadion,Nuernberg,49.4262526,11.1257076,"Südöstliche Außenstadt, Nürnberg, Nürnberg, Mittelfranken, Bayern, Germany",False,50000,False
+27,Mercedes-Benz Arena,Stuttgart,52.5063143,13.4436316,"Bezirk Friedrichshain-Kreuzberg, Berlin, Kreisfreie Stadt Berlin, Berlin, Germany",False,17000,False
+28,Merck-Stadion am Böllenfalltor,Darmstadt,49.8576828,8.6723311,"Darmstadt-Ost, Darmstadt, Kreisfreie Stadt Darmstadt, Darmstadt, Hessen, Germany",False,17000,False
+29,Merkur Spielarena,Fortuna Duesseldorf,51.2615824,6.7331902,"Stadtbezirk 5, Düsseldorf, Düsseldorf, Düsseldorf, Nordrhein-Westfalen, Germany",False,54600,False
+30,Millerntor-Stadion,St. Pauli,53.55453379999999,9.9677413,"Hamburg-Mitte, Hamburg, Hamburg, Hamburg, Germany",False,29546,False
+31,OPEL ARENA,Mainz,49.98403384050516,8.224435248092398,"Eugen-Salomon-Straße 1, 55128 Mainz, Deutschland",True,34000,False
+32,Olympiastadion,Hertha Berlin,52.5146971,13.2394986,"Bezirk Charlottenburg-Wilmersdorf, Berlin, Kreisfreie Stadt Berlin, Berlin, Germany",False,74475,False
+33,PreZero Arena,Hoffenheim,49.23803849999999,8.8879801,"Sinsheim, Rhein-Neckar-Kreis, Karlsruhe, Baden-Württemberg, Germany",False,30150,False
+34,Red Bull Arena,RBL,51.346197888861646,12.34831181573538,"Am Sportforum 3, 04105 Leipzig, Deutschland",True,25000,False
+35,Rhein-Neckar-Arena,Hoffenheim,49.23803849999999,8.8879801,"Sinsheim, Rhein-Neckar-Kreis, Karlsruhe, Baden-Württemberg, Germany",False,30150,False
+36,RheinEnergieSTADION,FC Koln,50.93346090000001,6.8751545,"Lindenthal, Köln, Kreisfreie Stadt Köln, Köln, Nordrhein-Westfalen, Germany",False,50000,False
+37,RheinEnergieStadion,FC Koln,50.93346090000001,6.8751545,"Lindenthal, Köln, Kreisfreie Stadt Köln, Köln, Nordrhein-Westfalen, Germany",False,50000,False
+38,SGL Arena,Augsburg,48.3231778,10.8864185,"Universitätsviertel, Augsburg, Kreisfreie Stadt Augsburg, Schwaben, Bayern, Germany",False,30660,False
+39,SIGNAL IDUNA PARK,Borussia Dortmund,51.4925888,7.451857400000001,"Innenstadt-West, Dortmund, Dortmund, Arnsberg, Nordrhein-Westfalen, Germany",False,81365,False
+40,Schwarzwald-Stadion,Freiburg,47.988917,7.892876999999999,"Ost, Freiburg im Breisgau, Kreisfreie Stadt Freiburg im Breisgau, Freiburg, Baden-Württemberg, Germany",False,24000,False
+41,SchücoArena,Arminia Bielefeld,52.0314415,8.5161568,"Bielefeld, Kreisfreie Stadt Bielefeld, Detmold, Nordrhein-Westfalen, Germany",False,26515,False
+42,Signal Iduna Park,Borussia Dortmund,51.4925888,7.451857400000001,"Innenstadt-West, Dortmund, Dortmund, Arnsberg, Nordrhein-Westfalen, Germany",False,81365,False
+43,Sportpark Ronhof | Thomas Sommer,Greuther Fuerth,49.4869857,10.9992017,"Fürth, Kreisfreie Stadt Fürth, Mittelfranken, Bayern, Germany",False,15606,False
+44,Stadion Nürnberg,Nuernberg,49.4262526,11.1257076,"Südöstliche Außenstadt, Nürnberg, Nürnberg, Mittelfranken, Bayern, Germany",False,50000,False
+45,Stadion am Bruchweg,Mainz,50.0009593,8.2456943,"Mainz, Mainz, Rheinland-Pfalz, Germany",False,18700,False
+46,Stadion an der Schwarzwaldstraße,Freiburg,47.988917,7.892876999999999,"Ost, Freiburg im Breisgau, Kreisfreie Stadt Freiburg im Breisgau, Freiburg, Baden-Württemberg, Germany",False,24000,False
+47,Trolli ARENA,Greuther Fuerth,49.487104143834486,10.999169518311108,"Laubenweg 60, 90765 Fürth, Deutschland",True,15606,False
+48,VELTINS-Arena,Schalke,51.5546309,7.0675262,"Gelsenkirchen-Ost, Gelsenkirchen, Kreisfreie Stadt Gelsenkirchen, Münster, Nordrhein-Westfalen, Germany",False,62271,False
+49,Veltins-Arena,Schalke,51.5546309,7.0675262,"Gelsenkirchen-Ost, Gelsenkirchen, Kreisfreie Stadt Gelsenkirchen, Münster, Nordrhein-Westfalen, Germany",False,62271,False
+50,Volksparkstadion,Hamburg,53.5871279,9.8986004,"Altona, Hamburg, Hamburg, Hamburg, Germany",False,57000,False
+51,Volkswagen Arena,Wolfsburg,41.1087732,29.0077032,"Huzur Mahallesi, Sarıyer, İstanbul, Türkiye",False,30000,False
+52,Vonovia Ruhrstadion,Bochum,51.489917,7.236513,"Bochum Mitte, Bochum, Bochum, Arnsberg, Nordrhein-Westfalen, Germany",False,26,False
+53,WIRSOL Rhein-Neckar-Arena,Hoffenheim,49.23803849999999,8.8879801,"Sinsheim, Rhein-Neckar-Kreis, Karlsruhe, Baden-Württemberg, Germany",False,30150,False
+54,WWK ARENA,Augsburg,48.32319916101646,10.8863755851331,"Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Deutschland",True,30660,False
+55,Waldstadion,Eintracht Frankfurt,50.0685807,8.645472,"Frankfurt am Main Süd, Frankfurt am Main, Kreisfreie Stadt Frankfurt am Main, Darmstadt, Hessen, Germany",False,51500,False
+56,Weser-Stadion,Werder Bremen,53.06643279999999,8.837605199999999,"Östliche Vorstadt, Bremen, Bremen, Bremen, Germany",False,42100,False
+57,Weserstadion,Werder Bremen,53.06643279999999,8.837605199999999,"Östliche Vorstadt, Bremen, Bremen, Bremen, Germany",False,42100,False
+58,badenova-Stadion,Freiburg,47.988917,7.892876999999999,"Ost, Freiburg im Breisgau, Kreisfreie Stadt Freiburg im Breisgau, Freiburg, Baden-Württemberg, Germany",False,24000,False
+59,easyCredit-Stadion,Nuernberg,49.4262526,11.1257076,"Südöstliche Außenstadt, Nürnberg, Nürnberg, Mittelfranken, Bayern, Germany",False,50000,False
+60,rewirpowerSTADION,Bochum,51.489917,7.236513,"Bochum Mitte, Bochum, Bochum, Arnsberg, Nordrhein-Westfalen, Germany",False,26,False
+61,wohninvest WESERSTADION,Werder Bremen,53.06643279999999,8.837605199999999,"Östliche Vorstadt, Bremen, Bremen, Bremen, Germany",False,42100,False

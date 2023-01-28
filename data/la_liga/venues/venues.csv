@@ -1,0 +1,80 @@
+,VENUE,H_TEAM,LAT,LNG,LOCATION,MANUAL_ENTRY_x,CAPACITY,MANUAL_ENTRY_y
+0,ABANCA-Riazor,Deportivo,43.3687184,-8.4174835,"A Coruña, A Coruña, Galicia, Spain",False,34889,False
+1,Alfredo Di Stéfano,Real Madrid,43.3014018,-1.9735459,"Donostia, Gipuzkoa, Euskadi, Spain",False,6000,False
+2,Anoeta,Athletic Bilbao,43.3014018,-1.9735459,"Donostia, Gipuzkoa, Euskadi, Spain",False,39313,False
+3,Anoeta,Real Sociedad,43.3014018,-1.9735459,"Donostia, Gipuzkoa, Euskadi, Spain",False,39313,False
+4,Antiguo San Mamés,Athletic Bilbao,43.26436386812221,-2.949187865615009,"P.º Rafael Moreno ""Pitxitxi"", s/n, 48013 Bilbao, Biscay, Spain",True,53289,False
+5,Balaídos,Celta Vigo,42.2119201,-8.73974,"Vigo, Pontevedra, Galicia, Spain",False,29000,False
+6,Benito Villamarín,Real Betis,37.3565037,-5.9817521,"Sevilla, Sevilla, Sevilla, Spain",False,60720,False
+7,Butarque,Leganes,40.3404893,-3.7606014,"Leganés, Madrid, Comunidad de Madrid, Spain",False,12454,False
+8,Camp Nou,Barcelona,41.380896,2.1228198,"Barcelona, Barcelona, Catalunya, Spain",False,99354,False
+9,Campo de Fútbol de Vallecas,Rayo Vallecano,40.392062,-3.6587075,"Madrid, Madrid, Comunidad de Madrid, Spain",False,14708,False
+10,Ciutat de Valencia,Levante,39.49469089999999,-0.3638088,"València, Valencia, Comunidad Valenciana, Spain",False,26354,False
+11,Ciutat de València,Levante,39.49469089999999,-0.3638088,"València, Valencia, Comunidad Valenciana, Spain",False,26354,False
+12,Coliseum Alfonso Pérez,Getafe,40.3257267,-3.7149399,"Getafe, Madrid, Comunidad de Madrid, Spain",False,17000,False
+13,Coliseum Alfonso P�rez,Getafe,40.3257267,-3.7149399,"Getafe, Madrid, Comunidad de Madrid, Spain",False,17000,False
+14,Cornell? - El Prat,Espanyol,41.34797349999999,2.0747653,"Cornellà de Llobregat, Barcelona, Catalunya, Spain",False,40000,False
+15,Cornellá - El Prat,Espanyol,41.34797349999999,2.0747653,"Cornellà de Llobregat, Barcelona, Catalunya, Spain",False,40000,False
+16,Cornell� - El Prat,Espanyol,41.34797349999999,2.0747653,"Cornellà de Llobregat, Barcelona, Catalunya, Spain",False,40000,False
+17,El Alcoraz,SD Huesca,42.131916186348526,-0.4247331596259551,"Cam. de Cocorón, s/n, 22004 Huesca, Spain",True,9100,False
+18,El Madrigal,Villarreal,39.9438858,-0.1031381,"Vila-real, Castelló, Comunidad Valenciana, Spain",False,22000,False
+19,El Molin?n,Sporting Gijon,43.5362209,-5.637373999999999,"Gijón, Asturias, Principado de Asturias, Spain",True,29029,False
+20,El Molinón,Sporting Gijon,43.5362209,-5.637373999999999,"Gijón, Asturias, Principado de Asturias, Spain",False,29029,False
+21,El Molin�n,Sporting Gijon,43.5362209,-5.637373999999999,"Gijón, Asturias, Principado de Asturias, Spain",True,29029,False
+22,El Sadar,Osasuna,42.7966766,-1.6371204,"Pamplona, Navarra, Navarra, Spain",False,23576,False
+23,El Sardinero,Racing Santander,43.4763159,-3.793305599999999,"Santander, Cantabria, Cantabria, Spain",False,22222,False
+24,Estadio Camilo Cano,Levante,38.60403771815771,-0.1223304422629164,"Partida Muixara, S/N, 03530 La Nucia, Alicante, Španija",True,5000,False
+25,Estadio Los Cármenes,Granada,37.1529018,-3.5957356,"Granada, Granada, Andalucía, Spain",False,19336,False
+26,Estadio Municipal de Ipurúa,Eibar,43.1817416,-2.475868,"Eibar, Gipuzkoa, Euskadi, Spain",False,8164,False
+27,Estadio Nuevo Arcángel,Cordoba,37.8721706,-4.7644367,"Córdoba, Córdoba, Andalucía, Spain",False,21822,True
+28,Estadio de Gran Canaria,Las Palmas,27.9202202,-15.5474373,"Las Palmas, Canary Islands, Spain",False,11500,False
+29,Estadio de Vallecas,Rayo Vallecano,40.39207066828864,-3.6587029781771134,"C. del Payaso Fofó, 0, 28018 Madrid, Spain",True,14708,False
+30,Estadio de la Cerámica,Levante,39.9438858,-0.1031381,"Vila-real, Castelló, Comunidad Valenciana, Spain",False,22000,False
+31,Estadio de la Cerámica,Villarreal,39.9438858,-0.1031381,"Vila-real, Castelló, Comunidad Valenciana, Spain",False,22000,False
+32,Gran Canaria,Las Palmas,28.100483329686856,-15.456728968738847,"C. Fondos de Segura, s/n, 35019 Las Palmas de Gran Canaria, Las Palmas, Spain",True,11500,False
+33,Heliodoro Rodríguez López,Tenerife,28.4632978,-16.2605297,"Santa Cruz de Tenerife, Santa Cruz de Tenerife, Canarias, Spain",False,22824,False
+34,Heliodoro Rodr�guez L�pez,Tenerife,28.4632978,-16.2605297,"Santa Cruz de Tenerife, Santa Cruz de Tenerife, Canarias, Spain",False,22824,False
+35,Iberostar Estadi,Mallorca,39.589952,2.63005,"Palma, Illes Balears, Illes Balears, Spain",False,23142,False
+36,Ipurua,Eibar,43.1817416,-2.475868,"Eibar, Gipuzkoa, Euskadi, Spain",False,8164,False
+37,Ipurúa,Eibar,43.1817416,-2.475868,"Eibar, Gipuzkoa, Euskadi, Spain",False,8164,False
+38,José Rico Pérez,Hercules,38.3573611,-0.4927119999999999,"Alicante (Alacant), Alicante, Comunidad Valenciana, Spain",False,29500,False
+39,José Zorrilla,Real Valladolid,41.6445972,-4.7612219,"Valladolid, Valladolid, Castilla y León, Spain",False,26451,False
+40,Jos� Zorrilla,Real Valladolid,41.6445972,-4.7612219,"Valladolid, Valladolid, Castilla y León, Spain",False,26451,False
+41,Juegos Mediterráneos,Almeria,36.8400432,-2.4354129,"Almería, Almería, Andalucía, Spain",False,15274,False
+42,Juegos Mediterr�neos,Almeria,36.8400432,-2.4354129,"Almería, Almería, Andalucía, Spain",False,15274,False
+43,Juegos del Mediterráneo,Almeria,36.8400432,-2.4354129,"Almería, Almería, Andalucía, Spain",False,15274,False
+44,La Romareda,Malaga,41.6364777,-0.9018244,"Zaragoza, Zaragoza, Aragón, Spain",False,33608,False
+45,La Romareda,Real Zaragoza,41.6364777,-0.9018244,"Zaragoza, Zaragoza, Aragón, Spain",False,33608,False
+46,La Rosaleda,Malaga,36.7335796,-4.4266511,"Málaga, Málaga, Málaga, Spain",False,30044,False
+47,Los Cármenes,Granada,37.1529018,-3.5957356,"Granada, Granada, Andalucía, Spain",False,19336,False
+48,Martínez Valero,Elche,38.2671385,-0.6628111,"Elche, Alicante, Valencian Community, Spain",False,31388,False
+49,Mendizorroza,Deportivo Alaves,42.8370912,-2.688221,"Gasteiz, Araba, Euskadi, Spain",False,19840,False
+50,Mestalla,Valencia,39.47466,-0.3585882,"València, Valencia, Comunidad Valenciana, Spain",False,48600,False
+51,Municipal de Chapín,Xerez,36.6893456,-6.1205197,"Jerez de la Frontera, Cádiz, Andalucía, Spain",False,20523,False
+52,Municipal de Chap�n,Xerez,36.6893456,-6.1205197,"Jerez de la Frontera, Cádiz, Andalucía, Spain",False,20523,False
+53,Municipal de Montilivi,Girona,42.13188830000001,-0.4247182,"Huesca, Huesca, Aragón, Spain",False,11810,False
+54,Municipal de Riazor,Deportivo,43.3687184,-8.4174835,"A Coruña, A Coruña, Galicia, Spain",False,34889,False
+55,Nuevo Los Cármenes,Granada,37.1529018,-3.5957356,"Granada, Granada, Andalucía, Spain",False,19336,False
+56,Nuevo Mirandilla,Cadiz,36.50262683070327,-6.272842668674269,"Pl. de Madrid, s/n, 11010 Cádiz, Spain",True,20724,False
+57,Ono Estadi,Mallorca,39.589952,2.63005,"Palma, Illes Balears, Illes Balears, Spain",False,23142,False
+58,Power8 Stadium,Espanyol,41.34797349999999,2.0747653,"Cornellà de Llobregat, Barcelona, Catalunya, Spain",False,40000,False
+59,RCDE Stadium,Espanyol,41.34797349999999,2.0747653,"Cornellà de Llobregat, Barcelona, Catalunya, Spain",False,40000,False
+60,Ram?n S?nchez Pizju?n,Sevilla,37.3840655,-5.9706902,"Sevilla, Sevilla, Andalucía, Spain",False,12480,False
+61,Ramón Sánchez Pizjuán,Sevilla,37.3840655,-5.9706902,"Sevilla, Sevilla, Andalucía, Spain",False,42714,False
+62,Ramón Sánchez-Pizjuán,Sevilla,37.3840655,-5.9706902,"Sevilla, Sevilla, Andalucía, Spain",False,42714,False
+63,Ramón de Carranza,Cadiz,36.502601,-6.2729285,"Cádiz, Cádiz, Andalucía, Spain",False,20724,False
+64,Ramón-Sánchez Pizjuán,Sevilla,37.3840655,-5.9706902,"Sevilla, Sevilla, Andalucía, Spain",False,42714,False
+65,Ram�n S�nchez Pizju�n,Sevilla,37.3840655,-5.9706902,"Sevilla, Sevilla, Andalucía, Spain",False,12480,False
+66,Reale Arena,Real Sociedad,43.30140942488806,-1.9735450859606152,"1, Anoeta Pasalekua, 20014 Donostia, Gipuzkoa, Spain",False,39313,False
+67,Reyno de Navarra,Osasuna,42.7966766,-1.6371204,"Pamplona, Navarra, Navarra, Spain",False,23576,True
+68,Riazor,Deportivo,43.3687184,-8.4174835,"A Coruña, A Coruña, Galicia, Spain",False,34889,False
+69,San Mamés,Athletic Bilbao,43.2641706,-2.9493416,"Bilbao, Vizcaya, País Vasco, Spain",False,53331,False
+70,San Mam�s,Athletic Bilbao,43.2641706,-2.9493416,"Bilbao, Vizcaya, País Vasco, Spain",True,53331,False
+71,Santiago Bernab?u,Real Madrid,40.4530387,-3.6883337,"Madrid, Madrid, Comunidad de Madrid, Spain",False,81044,False
+72,Santiago Bernabéu,Real Madrid,40.4530387,-3.6883337,"Madrid, Madrid, Comunidad de Madrid, Spain",False,81044,False
+73,Santiago Bernab�u,Real Madrid,40.4530387,-3.6883337,"Madrid, Madrid, Comunidad de Madrid, Spain",False,81044,False
+74,Son Moix,Mallorca,39.5900842441344,2.6301143771452016,"Camí dels Reis, s/n, 07011 Palma, Illes Balears, Spain",False,23142,False
+75,Vicente Calderón,Atletico,40.4017243,-3.7206352,"Madrid, Madrid, Comunidad de Madrid, Spain",False,54907,False
+76,Vicente Calder�n,Atletico,40.4017243,-3.7206352,"Madrid, Madrid, Comunidad de Madrid, Spain",False,54907,False
+77,Visit Mallorca Estadi,Mallorca,39.5900842441344,2.6301143771452016,"Camí dels Reis, s/n, 07011 Palma, Illes Balears, Spain",True,23142,False
+78,Wanda Metropolitano,Atletico,40.43630994509151,-3.599481517940326,"Av. de Luis Aragonés, 4, 28022 Madrid, Spain",True,68456,False

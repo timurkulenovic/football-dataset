@@ -1,0 +1,64 @@
+,VENUE,H_TEAM,LAT,LNG,LOCATION,MANUAL_ENTRY_x,CAPACITY,MANUAL_ENTRY_y
+0,Adriatico,Crotone,42.45529056177625,14.22957054634644,"Viale V. Pepe, 65126 Pescara PE, Italy",True,20476,False
+1,Adriatico,Pescara,42.45529056177625,14.22957054634644,"Viale V. Pepe, 65126 Pescara PE, Italy",True,20476,False
+2,Alberto Braglia,Carpi,44.6534673,10.9231859,"Modena, Modena, Provincia di Modena, Emilia-Romagna, Italy",False,21092,False
+3,Alberto Picco,Spezia,44.1021847,9.8087264,"La Spezia, La Spezia, Provincia della Spezia, Liguria, Italy",False,11466,False
+4,Allianz Stadium,Juventus,45.10970327621822,7.641296746910371,"Corso Gaetano Scirea, 50, 10151 Torino TO, Italy",True,75024,False
+5,Angelo Massimino,Catania,37.51575589999999,15.0715457,"Catania, Catania, Città metropolitana di Catania, Sicilia, Italy",False,23266,False
+6,Arechi,Salernitana,40.64376780000001,14.826492,"Arechi, Salerno, Salerno, Provincia di Salerno, Campania, Italy",False,37800,False
+7,Armando Picchi,Livorno,43.5265961,10.3135376,"Livorno, Livorno, Provincia di Livorno, Toscana, Italy",False,14267,False
+8,Artemio Franchi,Fiorentina,43.7808349,11.2825717,"Firenze, Firenze, Città Metropolitana di Firenze, Toscana, Italy",False,43147,False
+9,Artemio Franchi Montepaschi Arena,Robur Siena,43.3218222,11.3262492,"Siena, Siena, Provincia di Siena, Toscana, Italy",False,15373,False
+10,Atleti Azzurri D'Italia,Atalanta,45.7092003,9.6808454,"Bergamo, Bergamo, Provincia di Bergamo, Lombardia, Italy",False,21747,False
+11,Atleti Azzurri d'Italia,Atalanta,45.7092003,9.6808454,"Bergamo, Bergamo, Provincia di Bergamo, Lombardia, Italy",False,21747,False
+12,Benito Stirpe,Frosinone,41.63407160000001,13.3218958,"Frosinone, Frosinone, Provincia di Frosinone, Lazio, Italy",False,16227,False
+13,Carlo Castellani,Empoli,43.7264653,10.9547756,"Empoli, Empoli, Città Metropolitana di Firenze, Toscana, Italy",False,16284,False
+14,Ciro Vigorito,Benevento,41.11653219999999,14.7810702,"Benevento, Benevento, Provincia di Benevento, Campania, Italy",False,25000,False
+15,Città del Tricolore,Sassuolo,44.71460483921,10.649683977205829,"Piazzale Atleti Azzuri D'Italia, 1, 42122 Reggio Emilia RE, Italy",True,21525,False
+16,Comunale Luigi Ferraris,Genoa,44.4165004,8.952518999999999,"Genova, Genova, Città Metropolitana di Genova, Liguria, Italy",False,36599,False
+17,Comunale Luigi Ferraris,Sampdoria,44.4165004,8.952518999999999,"Genova, Genova, Città Metropolitana di Genova, Liguria, Italy",False,36599,False
+18,Dacia Arena,Udinese,46.0814817,13.1997695,"Udine, Ente di decentramento regionale di Udine, Friuli-Venezia Giulia, Italy",False,25144,False
+19,Diego Armando Maradona,Napoli,40.82786325890488,14.193136196423504,"Via Giambattista Marino, 80125 Napoli NA, Italy",True,54726,False
+20,Dino Manuzzi,Cesena,44.14037800000001,12.261882,"Cesena, Cesena, Provincia di Forlì-Cesena, Emilia-Romagna, Italy",False,23860,False
+21,Dino Manuzzi,Spezia,44.14037800000001,12.261882,"Cesena, Cesena, Provincia di Forlì-Cesena, Emilia-Romagna, Italy",False,23860,False
+22,Ennio Tardini,Atalanta,44.7949194,10.3384546,"Parma, Parma, Provincia di Parma, Emilia-Romagna, Italy",False,27906,False
+23,Ennio Tardini,Cagliari,44.7949194,10.3384546,"Parma, Parma, Provincia di Parma, Emilia-Romagna, Italy",False,27906,False
+24,Ennio Tardini,Parma Calcio 1913,44.7949194,10.3384546,"Parma, Parma, Provincia di Parma, Emilia-Romagna, Italy",False,27906,False
+25,Ezio Scida,Crotone,39.0793188,17.1166693,"Crotone, Crotone, Provincia di Crotone, Calabria, Italy",False,16547,False
+26,Friuli,Udinese,46.2259177,13.1033646,"Friuli-Venezia Giulia, Italy",False,25144,False
+27,Gewiss Stadium,Atalanta,45.7092003,9.6808454,"Bergamo, Bergamo, Provincia di Bergamo, Lombardia, Italy",False,21747,False
+28,Giuseppe Meazza,AC Milan,45.4784844,9.121391,"Milano, Milano, Città Metropolitana di Milano, Lombardia, Italy",False,75923,False
+29,Giuseppe Meazza,Inter,45.4784844,9.121391,"Milano, Milano, Città Metropolitana di Milano, Lombardia, Italy",False,75923,False
+30,Is Arenas,Cagliari,39.23099904689471,9.182045360067844,"Via S'Arrulloni, 09045 Quartu Sant'Elena CA, Italy",True,16416,False
+31,Juventus Stadium,Juventus,45.1096276,7.641243099999999,"Torino, Torino, Città Metropolitana di Torino, Piemonte, Italy",False,41507,False
+32,Luigi Ferraris,Genoa,44.4165004,8.952518999999999,"Genova, Genova, Città Metropolitana di Genova, Liguria, Italy",False,36599,False
+33,Luigi Ferraris,Sampdoria,44.4165004,8.952518999999999,"Genova, Genova, Città Metropolitana di Genova, Liguria, Italy",False,36599,False
+34,MAPEI Stadium - Città del Tricolore,Atalanta,44.7145507,10.6496874,"Reggio Emilia, Reggio Emilia, Provincia di Reggio Emilia, Emilia-Romagna, Italy",False,21525,False
+35,MAPEI Stadium - Città del Tricolore,Sassuolo,44.7145507,10.6496874,"Reggio Emilia, Reggio Emilia, Provincia di Reggio Emilia, Emilia-Romagna, Italy",False,21525,False
+36,Marc'Antonio Bentegodi,Chievo,45.4353231,10.9686,"Verona, Verona, Provincia di Verona, Veneto, Italy",False,39211,False
+37,Marc'Antonio Bentegodi,Verona,45.4353231,10.9686,"Verona, Verona, Provincia di Verona, Veneto, Italy",False,39211,False
+38,Marcantonio Bentegodi,Chievo,45.4353231,10.9686,"Verona, Verona, Provincia di Verona, Veneto, Italy",False,39211,False
+39,Marcantonio Bentegodi,Verona,45.4353231,10.9686,"Verona, Verona, Provincia di Verona, Veneto, Italy",False,39211,False
+40,Mario Rigamonti,Brescia,45.5706672,10.2370646,"Brescia, Brescia, Provincia di Brescia, Lombardia, Italy",False,19500,False
+41,Mario Rigamonti,Genoa,45.5706672,10.2370646,"Brescia, Brescia, Provincia di Brescia, Lombardia, Italy",False,19500,False
+42,Matusa,Frosinone,41.63801375874074,13.343067832885527,"03100 Frosinone, Italy",True,10000,False
+43,Nereo Rocco,Cagliari,45.6225757,13.7929095,"Trieste, Trieste, Provincia di Trieste, Friuli-Venezia Giulia, Italy",False,24500,True
+44,Olimpico,Lazio,41.9341008999462,12.454853746825064,"Viale dei Gladiatori, 00135 Roma RM, Italy",True,70634,False
+45,Olimpico,Roma,41.9341008999462,12.454853746825064,"Viale dei Gladiatori, 00135 Roma RM, Italy",True,70634,False
+46,Olimpico Grande Torino,Frosinone,45.0418233,7.650052199999999,"Torino, Torino, Città Metropolitana di Torino, Piemonte, Italy",False,27958,False
+47,Olimpico Grande Torino,Juventus,45.0418233,7.650052199999999,"Torino, Torino, Città Metropolitana di Torino, Piemonte, Italy",False,27958,False
+48,Olimpico Grande Torino,Torino,45.0418233,7.650052199999999,"Torino, Torino, Città Metropolitana di Torino, Piemonte, Italy",False,27958,False
+49,Olimpico di Torino,Juventus,45.0418233,7.650052199999999,"Torino, Torino, Città Metropolitana di Torino, Piemonte, Italy",False,14350,False
+50,Olimpico di Torino,Torino,45.0418233,7.650052199999999,"Torino, Torino, Città Metropolitana di Torino, Piemonte, Italy",False,14350,False
+51,Paolo Mazza,SPAL 2013,44.8401734,11.607966,"Ferrara, Ferrara, Provincia di Ferrara, Emilia-Romagna, Italy",False,16134,False
+52,Pier Luigi Penzo,Venezia,45.4277687,12.3639784,"Venezia, Venezia, Città Metropolitana di Venezia, Veneto, Italy",False,11150,False
+53,Renato Dall'Ara,Bologna,44.4921623,11.3099448,"Bologna, Bologna, Città Metropolitana di Bologna, Emilia-Romagna, Italy",False,31070,False
+54,Renato Dall'Ara,SPAL 2013,44.4921623,11.3099448,"Bologna, Bologna, Città Metropolitana di Bologna, Emilia-Romagna, Italy",False,31070,False
+55,Renzo Barbera,Palermo FC,38.1527423,13.3422089,"Palermo, Palermo, Città metropolitana di Palermo, Sicilia, Italy",False,36365,False
+56,San Nicola,Bari,41.08480366832217,16.84013827154802,"Strada Torrebella, 70124 Bari BA, Italy",True,58270,True
+57,San Paolo,Napoli,40.82786325890488,14.193136196423504,"Via Giambattista Marino, 80125 Napoli NA, Italy",True,54726,False
+58,Sant'Elia,Cagliari,39.19941344413512,9.135128785994349,"Via Amerigo Vespucci, 09126 Cagliari CA, Italy",True,40919,False
+59,Sardegna Arena,Cagliari,39.199663,9.1373953,"Cagliari, Cagliari, Città Metropolitana di Cagliari, Sardegna, Italy",False,16416,False
+60,Silvio Piola,Novara,45.43585705354908,8.596527144434857,"Viale Marmo, 8, 28100 Novara NO, Italy",False,17875,True
+61,Unipol Domus,Cagliari,39.199663,9.1373953,"Cagliari, Cagliari, Città Metropolitana di Cagliari, Sardegna, Italy",False,16416,False
+62,Via Del Mare,Lecce,40.3651295,18.2089772,"Lecce, Provincia di Lecce, Puglia, Italy",False,40670,False

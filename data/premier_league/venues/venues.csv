@@ -1,0 +1,55 @@
+,VENUE,H_TEAM,LAT,LNG,LOCATION,MANUAL_ENTRY_x,CAPACITY,MANUAL_ENTRY_y
+0,Amex Stadium,Brighton,50.8615651,-0.0837163,"Brighton and Hove, England, United Kingdom",False,31800,False
+1,Anfield,Liverpool,53.4308294,-2.96083,"Anfield, Merseyside, England, United Kingdom",False,53394,False
+2,Bloomfield Road,Blackpool,53.8048026,-3.0490778,"Blackpool, England, United Kingdom",False,16616,False
+3,Boleyn Ground,West Ham,51.53195669999999,0.0394024,"Greater London, England, United Kingdom",False,35016,False
+4,Bramall Lane,Sheff Utd,53.370420234734105,-1.4709335427222698,"John St, Highfield, Sheffield S2 4QX, United Kingdom",True,32750,False
+5,Brentford Community Stadium,Brentford,51.4907918,-0.2886482,"Greater London, England, United Kingdom",False,17250,False
+6,Britannia Stadium,Stoke,52.9882849,-2.176096,"Stoke-on-Trent, England, United Kingdom",False,30089,False
+7,Cardiff City Stadium,Cardiff,51.4728372,-3.2030343,"Cardiff, Wales, United Kingdom",False,33280,False
+8,Carrow Road,Norwich,52.6217102,1.3096681,"Norfolk, England, United Kingdom",False,27359,False
+9,City of Manchester Stadium,Man City,53.48313810000001,-2.2003953,"Greater Manchester, England, United Kingdom",False,53400,False
+10,Craven Cottage,Fulham,51.4748946,-0.2217799,"Greater London, England, United Kingdom",False,22384,False
+11,DW Stadium,Wigan,53.5476804,-2.6541071,"Greater Manchester, England, United Kingdom",False,25138,False
+12,Elland Road,Leeds,53.7778162,-1.5721446,"Beeston, West Yorkshire, England, United Kingdom",False,37608,False
+13,Emirates Stadium,Arsenal,51.5548885,-0.108438,"Greater London, England, United Kingdom",False,60704,False
+14,Etihad Stadium,Man City,53.48313810000001,-2.2003953,"Greater Manchester, England, United Kingdom",False,53400,False
+15,Ewood Park,Blackburn,53.7286169,-2.4891799,"Blackburn with Darwen, England, United Kingdom",False,31367,False
+16,Fratton Park,Portsmouth,50.7963372,-1.0637899,"Southsea, Portsmouth, Portsmouth, England, United Kingdom",False,20620,False
+17,Goodison Park,Everton,53.438787,-2.9663193,"Merseyside, England, United Kingdom",False,40157,True
+18,John Smith's Stadium,Huddersfield,53.6542822,-1.7682517,"West Yorkshire, England, United Kingdom",False,24121,False
+19,KCOM Stadium,Hull,53.7459183,-0.3680605,"Kingston upon Hull, Kingston upon Hull, England, United Kingdom",False,25400,True
+20,King Power Stadium,Leicester,52.6203662,-1.1421895,"Leicester, England, United Kingdom",False,32261,False
+21,Kiyan Prince Foundation Stadium,QPR,51.5092577,-0.232207,"Greater London, England, United Kingdom",False,18439,False
+22,Liberty Stadium,Swansea,51.64287635900157,-3.934542578722157,"Plasmarl, Swansea SA1 2FA, United Kingdom",False,21088,False
+23,Loftus Road,QPR,51.5092577,-0.232207,"Greater London, England, United Kingdom",False,18439,False
+24,Loftus Road Stadium,QPR,51.5092577,-0.232207,"Greater London, England, United Kingdom",False,18439,False
+25,London Stadium,West Ham,51.5387095,-0.0166037,"Greater London, England, United Kingdom",False,62500,False
+26,Madejski Stadium,Reading,51.42239319999999,-0.9826326,"Berkshire, England, United Kingdom",False,24161,False
+27,Molineux,Wolves,52.5902362,-2.1304288,"West Midlands, England, United Kingdom",False,32050,False
+28,Molineux Stadium,Wolves,52.5902362,-2.1304288,"West Midlands, England, United Kingdom",False,32050,False
+29,Old Trafford,Man Utd,53.4630589,-2.2913401,"Old Trafford, Stretford, Greater Manchester, England, United Kingdom",False,74310,False
+30,Reebok Stadium,Bolton,53.5813723,-2.5369749,"Horwich, Greater Manchester, England, United Kingdom",False,28723,False
+31,Riverside Stadium,Middlesbrough,54.5779685,-1.2181654,"Middlesbrough, England, United Kingdom",False,34742,False
+32,Selhurst Park,Crystal Palace,51.39797429999999,-0.0860576,"Greater London, England, United Kingdom",False,25486,False
+33,Sports Direct Arena,Newcastle,54.975556,-1.621667,"Tyne and Wear, England, United Kingdom",False,52305,False
+34,St Andrews,Birmingham,52.47573169366324,-1.868011437140616,"Cattell Rd, Birmingham B9 4RL, United Kingdom",True,29409,False
+35,St James' Park,Newcastle,54.975556,-1.621667,"Tyne and Wear, England, United Kingdom",False,52305,False
+36,St. Andrew's Stadium,Birmingham,52.4757188,-1.8681831,"West Midlands, England, United Kingdom",False,29409,False
+37,St. James' Park,Newcastle,54.975556,-1.621667,"Tyne and Wear, England, United Kingdom",False,52305,False
+38,St. Mary's Stadium,Southampton,50.9058106,-1.3901028,"Southampton, England, United Kingdom",False,32384,True
+39,Stadium of Light,Sunderland,54.914561,-1.388371,"Monkwearmouth, Tyne and Wear, England, United Kingdom",False,49000,True
+40,Stamford Bridge,Chelsea,51.4816696389695,-0.1908599403552144,"Fulham Rd., London SW6 1HS, United Kingdom",True,41837,True
+41,The Friends Provident St Mary's Stadium,Southampton,50.9058106,-1.3901028,"Southampton, England, United Kingdom",False,32384,False
+42,The Hawthorns,West Brom,52.50990909999999,-1.9639585,"West Midlands, England, United Kingdom",False,26688,False
+43,The KC Stadium,Hull,53.7459183,-0.3680605,"Kingston upon Hull, Kingston upon Hull, England, United Kingdom",False,25400,True
+44,The Kingston Communications Stadium,Hull,53.7459183,-0.3680605,"Kingston upon Hull, Kingston upon Hull, England, United Kingdom",False,25400,True
+45,Tottenham Hotspur Stadium,Tottenham,51.60423220000001,-0.0662152,"Greater London, England, United Kingdom",False,62850,False
+46,Turf Moor,Burnley,53.7886839,-2.2303478,"Lancashire, England, United Kingdom",False,21944,False
+47,Upton Park,West Ham,51.53195669999999,0.0394024,"Greater London, England, United Kingdom",False,35016,False
+48,Vicarage Road,Watford,51.6498879,-0.4015015,"Hertfordshire, England, United Kingdom",False,22200,False
+49,Villa Park,Aston Villa,52.509157369862194,-1.8848149846817563,"Trinity Rd, Birmingham B6 6HE, United Kingdom",True,42682,False
+50,Vitality Stadium,Bournemouth,50.7348316,-1.8390783,"Boscombe, Dorset, England, United Kingdom",False,11364,False
+51,Wembley Stadium,Tottenham,51.55602469999999,-0.2796177,"Greater London, England, United Kingdom",False,90000,True
+52,White Hart Lane,Tottenham,51.6032123,-0.0657389,"Greater London, England, United Kingdom",False,36284,False
+53,bet365 Stadium,Stoke,52.9882849,-2.176096,"Stoke-on-Trent, England, United Kingdom",False,30089,False
