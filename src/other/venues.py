@@ -98,7 +98,7 @@ class VenueScraper:
 
 
 if __name__ == "__main__":
-    league = "serie_a"
+    league = "bundesliga"
     data_dir = os.path.join(f"../../data/{league}")
     chrome_driver_path = "./chromedriver"
     venue_scraper = VenueScraper(data_dir, chrome_driver_path, "football", "arena")
