@@ -18,15 +18,15 @@ def get_links(driver, league, leagues_links, first_season, last_season):
     href = leagues_links[league]
     driver.get(f"{BASE_URL}{href}")
     time.sleep(1)
-    driver.find_element_by_xpath(f"//button[@mode='primary']").click()    # for cookies
+    driver.find_element("xpath", f"//button[@mode='primary']").click()    # for cookies
     bs_main = bs(driver.page_source, "html.parser")
     possible_seasons = [(opt.text.strip(), opt.get("value")) for opt in
                         bs_main.find("select", {"id": "seasons"}).find_all("option")]
     chosen_seasons = [(seas, val) for seas, val in possible_seasons if first_season <= seas <= last_season]
     links = {}
     for i, (season_str, season_value) in enumerate(chosen_seasons):
-        d.find_element_by_xpath(f"//select[@id='seasons']/option[@value='{season_value}']").click()
-        time.sleep(1)
+        d.find_element("xpath", f"//select[@id='seasons']/option[@value='{season_value}']").click()
+        time.sleep(1.5)
         source = d.page_source
         parts = [("regular", None)]
         bs_main = bs(driver.page_source, "html.parser")
@@ -37,18 +37,19 @@ def get_links(driver, league, leagues_links, first_season, last_season):
         # print([part for part, value in parts])
         for part, part_value in parts:
             if part != "regular":
-                d.find_element_by_xpath(f"//select[@id='stages']/option[@value='{part_value}']").click()
-                time.sleep(1)
+                d.find_element("xpath", f"//select[@id='stages']/option[@value='{part_value}']").click()
+                time.sleep(1.5)
             links[(season_str, part)] = []
             while True:
                 bs_main = bs(d.page_source, "html.parser")
                 links[(season_str, part)].extend([t.find("a").get("href") for t in bs_main.find_all("div", {"class": "result"})])
-                d.find_element_by_xpath(f"//span[@class='ui-icon ui-icon-triangle-1-w']").click()
-                time.sleep(0.5)
+                d.find_element("xpath", f"//span[@class='ui-icon ui-icon-triangle-1-w']").click()
+                time.sleep(1)
                 if d.page_source != source:
                     source = d.page_source
                 else:
                     break
+    print(links)
     return links
 
 
@@ -56,7 +57,8 @@ def get_games_data(driver, leagues_links, league, first_season, end_season):
     links = get_links(driver, league, leagues_links, first_season, end_season)
     for (season, part) in links:
         matches = []
-        for link in links[(season, part)]:
+        for i, link in enumerate(links[(season, part)]):
+            print(i, end=" ")
             driver.get(f"{BASE_URL}{link}")
             time.sleep(3)
             bs_match = bs(d.page_source, "html.parser")
@@ -64,7 +66,7 @@ def get_games_data(driver, leagues_links, league, first_season, end_season):
                 continue
             if "Additional security check" in d.page_source:
                 print("Security check")
-                driver.find_element_by_xpath(f"//div[@class='recaptcha-checkbox-border']").click()
+                driver.find_element("xpath", f"//div[@class='recaptcha-checkbox-border']").click()
 
             # Main info
             h_team_name = bs_match.find("div", {"data-field": "home"}).find("a").text
@@ -149,6 +151,9 @@ if __name__ == "__main__":
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
 
     d = selenium_driver(BASE_URL, "other/chromedriver")
-    _, arg_league, s_season, e_season = list(sys.argv)
+    # _, arg_league, s_season, e_season = list(sys.argv)
+    arg_league = "ligue_1"
+    s_season = "2021/2022"
+    e_season = "2021/2022"
     get_games_data(d, leagues, arg_league, s_season, e_season)
     d.close()

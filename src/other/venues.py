@@ -1,4 +1,5 @@
 import numpy as np
+import os
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 import requests
@@ -17,9 +18,9 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/201
 class VenueScraper:
     def __init__(self, data_dir, chrome_driver_path, sport, venue_type):
         self.data_dir = data_dir
-        main_info_path = f"{self.data_dir}/games/parquet/main_info.parquet"
-        self.main_info = pd.read_parquet(main_info_path)
-        self.unique_venues = pd.DataFrame(self.main_info["VENUE"].unique().dropna(), columns=["VENUE"])
+        main_info_path = f"{self.data_dir}/games/games.csv"
+        self.main_info = pd.read_csv(main_info_path)
+        self.unique_venues = pd.DataFrame(self.main_info["VENUE"].unique(), columns=["VENUE"]).dropna()
         self.full_venues = self.main_info.groupby(['VENUE', 'H_TEAM']).size().reset_index().drop(0, axis=1)
         self.chrome_driver_path = chrome_driver_path
         self.driver = None
@@ -94,3 +95,13 @@ class VenueScraper:
         capacity_df = pd.read_csv(f"{self.data_dir}/venues/capacity.csv")
         df_venues = pd.merge(location_df, capacity_df, on="VENUE")
         df_venues.to_csv(f"{self.data_dir}/venues/venues.csv")
+
+
+if __name__ == "__main__":
+    league = "serie_a"
+    data_dir = os.path.join(f"../../data/{league}")
+    chrome_driver_path = "./chromedriver"
+    venue_scraper = VenueScraper(data_dir, chrome_driver_path, "football", "arena")
+    venue_scraper.get_capacity_data()
+    venue_scraper.get_location_data()
+    venue_scraper.merge_files()
