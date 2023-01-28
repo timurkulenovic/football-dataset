@@ -94,14 +94,15 @@ class VenueScraper:
         location_df = pd.read_csv(f"{self.data_dir}/venues/location.csv")
         capacity_df = pd.read_csv(f"{self.data_dir}/venues/capacity.csv")
         df_venues = pd.merge(location_df, capacity_df, on="VENUE")
+        df_venues = df_venues.drop(columns=["MANUAL_ENTRY_x", "MANUAL_ENTRY_y"])
         df_venues.to_csv(f"{self.data_dir}/venues/venues.csv")
 
 
 if __name__ == "__main__":
-    league = "bundesliga"
+    league = "la_liga"
     data_dir = os.path.join(f"../../data/{league}")
     chrome_driver_path = "./chromedriver"
     venue_scraper = VenueScraper(data_dir, chrome_driver_path, "football", "arena")
-    venue_scraper.get_capacity_data()
-    venue_scraper.get_location_data()
+    #venue_scraper.get_capacity_data()
+    #venue_scraper.get_location_data()
     venue_scraper.merge_files()
