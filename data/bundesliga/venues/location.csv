@@ -1,7 +1,7 @@
 VENUE,H_TEAM,LAT,LNG,LOCATION,MANUAL_ENTRY
 AWD-Arena,Hannover,52.360017,9.731225,"Mitte, Hannover, Region Hannover, Niedersachsen, Germany",False
 Allianz Arena,Bayern,48.218764,11.6247555,"Schwabing-Freimann, München, Kreisfreie Stadt München, Oberbayern, Bayern, Germany",False
-An der Alten Försterei,Union Berlin,52.45743539999999,13.5681605,"Bezirk Treptow-Köpenick, Berlin, Kreisfreie Stadt Berlin, Berlin, Germany",False
+An der Alten Försterei,Union Berlin,52.45743539999999,13.5681605,"Bezirk Treptow-Köpenick, Berlin, Kreisfreie Stadt Berlin, Berlin, Germany",True
 Audi Sportpark,Ingolstadt,48.745548,11.4857571,"Ingolstadt, Kreisfreie Stadt Ingolstadt, Upper Bavaria, Bavaria, Germany",False
 BORUSSIA-PARK,Borussia M.Gladbach,51.1745698,6.3855055,"West, Mönchengladbach, Mönchengladbach, Düsseldorf, Nordrhein-Westfalen, Germany",False
 Badenova-Stadion,Freiburg,47.988917,7.892876999999999,"Ost, Freiburg im Breisgau, Kreisfreie Stadt Freiburg im Breisgau, Freiburg, Baden-Württemberg, Germany",False
@@ -50,7 +50,7 @@ Trolli ARENA,Greuther Fuerth,49.487104143834486,10.999169518311108,"Laubenweg 60
 VELTINS-Arena,Schalke,51.5546309,7.0675262,"Gelsenkirchen-Ost, Gelsenkirchen, Kreisfreie Stadt Gelsenkirchen, Münster, Nordrhein-Westfalen, Germany",False
 Veltins-Arena,Schalke,51.5546309,7.0675262,"Gelsenkirchen-Ost, Gelsenkirchen, Kreisfreie Stadt Gelsenkirchen, Münster, Nordrhein-Westfalen, Germany",False
 Volksparkstadion,Hamburg,53.5871279,9.8986004,"Altona, Hamburg, Hamburg, Hamburg, Germany",False
-Volkswagen Arena,Wolfsburg,41.1087732,29.0077032,"Huzur Mahallesi, Sarıyer, İstanbul, Türkiye",False
+Volkswagen Arena,Wolfsburg,52.43264296672332,10.803842480695618,"In den Allerwiesen 1, 38446 Wolfsburg, Germany",False
 Vonovia Ruhrstadion,Bochum,51.489917,7.236513,"Bochum Mitte, Bochum, Bochum, Arnsberg, Nordrhein-Westfalen, Germany",False
 WIRSOL Rhein-Neckar-Arena,Hoffenheim,49.23803849999999,8.8879801,"Sinsheim, Rhein-Neckar-Kreis, Karlsruhe, Baden-Württemberg, Germany",False
 WWK ARENA,Augsburg,48.32319916101646,10.8863755851331,"Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Deutschland",True
