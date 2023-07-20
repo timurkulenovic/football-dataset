@@ -1,9 +1,11 @@
 import pandas as pd
+import selenium.common.exceptions
 from bs4 import BeautifulSoup as bs
 import time
 import requests
 from other.selenium_init import selenium_driver
 from helpers import month_to_number, col_names, events_to_string
+import os
 import sys
 
 
@@ -18,7 +20,11 @@ def get_links(driver, league, leagues_links, first_season, last_season):
     href = leagues_links[league]
     driver.get(f"{BASE_URL}{href}")
     time.sleep(1)
-    driver.find_element("xpath", f"//button[@mode='primary']").click()    # for cookies
+    try:
+        cookie_button = driver.find_element("xpath", f"//button[@mode='primary']")
+        cookie_button.click()
+    except selenium.common.exceptions.NoSuchElementException:
+        print("No cookie button")
     bs_main = bs(driver.page_source, "html.parser")
     possible_seasons = [(opt.text.strip(), opt.get("value")) for opt in
                         bs_main.find("select", {"id": "seasons"}).find_all("option")]
@@ -57,10 +63,10 @@ def get_games_data(driver, leagues_links, league, first_season, end_season):
     links = get_links(driver, league, leagues_links, first_season, end_season)
     for (season, part) in links:
         matches = []
-        for i, link in enumerate(links[(season, part)]):
+        for i, link in enumerate(links[(season, part)][350:]):
             print(i, end=" ")
             driver.get(f"{BASE_URL}{link}")
-            time.sleep(3)
+            time.sleep(10)
             bs_match = bs(d.page_source, "html.parser")
             if bs_match.find("div", {"class": "score"}) is None:
                 continue
@@ -125,8 +131,14 @@ def get_games_data(driver, leagues_links, league, first_season, end_season):
 
         # Export to CSV
         df = pd.DataFrame(data=matches, columns=col_names)
-        df.to_csv(f"../data/{league}/{league}_games_{season.replace('/', '_')}"
-                  f"_{part.replace(' ', '_')}.csv", index=False)
+        df.to_csv(f"../data/{league}/games/seasons/{league}_games_{season.replace('/', '_')}.csv", index=False)
+
+
+def join_seasons_data(league):
+    dir_path = f"../data/{league}/games/seasons"
+    season_dfs = [pd.read_csv(f"{dir_path}/{file}") for file in os.listdir(dir_path)]
+    df = pd.concat(season_dfs)
+    df.to_csv(f"../data/{league}/games/games.csv")
 
 
 if __name__ == "__main__":
@@ -150,10 +162,11 @@ if __name__ == "__main__":
     s = requests.Session()
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
 
-    d = selenium_driver(BASE_URL, "other/chromedriver")
+    d = selenium_driver(BASE_URL, "other/geckodriver")
     # _, arg_league, s_season, e_season = list(sys.argv)
     arg_league = "ligue_1"
-    s_season = "2021/2022"
-    e_season = "2021/2022"
+    s_season = "2022/2023"
+    e_season = "2022/2023"
     get_games_data(d, leagues, arg_league, s_season, e_season)
+    join_seasons_data(arg_league)
     d.close()
