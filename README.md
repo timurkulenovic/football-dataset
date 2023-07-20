@@ -8,7 +8,7 @@ update the datasets and increase the granularity of the data, if that is possibl
 
 Directory [src/](src/) contains the code that was used to **download**, **scrape**, **collect** and **edit** all the data. Directory [data/](data/) contains the available datasets.
 
-Data is published in **parquet** format.
+Data is published in **CSV** format.
 
 Currently, the data is mantained for the following leagues:
 * [Premier League](data/premier_leauge),
