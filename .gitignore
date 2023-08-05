@@ -2,3 +2,5 @@
 .idea/
 .DS_Store
 data/.DS_Store
+/src/other/geckodriver
+/src/other/chromedriver

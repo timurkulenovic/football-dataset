@@ -6,11 +6,9 @@ data of **high granularity** from football games.
 This is an ongoing project. I will try to regularly fix the possible mistakes in the data,
 update the datasets and increase the granularity of the data, if that is possible.
 
-Directory [src/](src/) contains the code that was used to **download**, **scrape**, **collect** and **edit** all the data. Directory [data/](data/) contains the available datasets.
+Directory [src/](src) contains the code that was used to **download**, **scrape**, **collect** and **edit** all the data. Directory [data/](data/) contains the available datasets.
 
-Data is published in **CSV** format.
-
-Currently, the data is mantained for the following leagues:
+Data is published in **CSV** format and is currently mantained for the following leagues:
 * [Premier League](data/premier_leauge),
 * [Bundesliga](data/bundesliga),
 * [Ligue 1](data/ligue_1),

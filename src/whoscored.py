@@ -63,8 +63,8 @@ def get_games_data(driver, leagues_links, league, first_season, end_season):
     links = get_links(driver, league, leagues_links, first_season, end_season)
     for (season, part) in links:
         matches = []
-        for i, link in enumerate(links[(season, part)][350:]):
-            print(i, end=" ")
+        for i, link in enumerate(links[(season, part)]):
+            print(i, link)
             driver.get(f"{BASE_URL}{link}")
             time.sleep(10)
             bs_match = bs(d.page_source, "html.parser")
@@ -126,12 +126,11 @@ def get_games_data(driver, leagues_links, league, first_season, end_season):
                      att, h_team_name, a_team_name, ref,
                      h_ht_goals, a_ht_goals, h_ft_goals, a_ft_goals,
                      *match_centre, home_events_joined, away_events_joined]
-            print(match)
             matches.append(match)
 
         # Export to CSV
         df = pd.DataFrame(data=matches, columns=col_names)
-        df.to_csv(f"../data/{league}/games/seasons/{league}_games_{season.replace('/', '_')}.csv", index=False)
+        df.to_csv(f"../data/{league}/games/seasons/{league}_games_{season.replace('/', '_')}_.csv", index=False)
 
 
 def join_seasons_data(league):
@@ -146,16 +145,16 @@ if __name__ == "__main__":
                "serie_a": "/Regions/108/Tournaments/5/Italy-Serie-A",
                "la_liga": "/Regions/206/Tournaments/4/Spain-LaLiga",
                "bundesliga": "/Regions/81/Tournaments/3/Germany-Bundesliga",
-               "ligue_1": "/Regions/74/Tournaments/22/France-Ligue-1",
-               "champions_league": "/Regions/250/Tournaments/12/Europe-Champions-League",
-               "europa_league": "/Regions/250/Tournaments/30/Europe-Europa-League",
-               "portugal_nos": "/Regions/177/Tournaments/21/Portugal-Liga-NOS",
-               "eredivisie": "/Regions/155/Tournaments/13/Netherlands-Eredivisie",
-               "brasil": "/Regions/31/Tournaments/95/Brazil-Brasileir%C3%A3o",
-               "argentina": "/Regions/11/Tournaments/68/Argentina-Liga-Profesional",
-               "mls": "/Regions/233/Tournaments/85/USA-Major-League-Soccer",
-               "turkey": "/Regions/225/Tournaments/17/Turkey-Super-Lig",
-               "russia": "/Regions/182/Tournaments/77/Russia-Premier-League"
+               "ligue_1": "/Regions/74/Tournaments/22/France-Ligue-1"
+               # "champions_league": "/Regions/250/Tournaments/12/Europe-Champions-League",
+               # "europa_league": "/Regions/250/Tournaments/30/Europe-Europa-League",
+               # "portugal_nos": "/Regions/177/Tournaments/21/Portugal-Liga-NOS",
+               # "eredivisie": "/Regions/155/Tournaments/13/Netherlands-Eredivisie",
+               # "brasil": "/Regions/31/Tournaments/95/Brazil-Brasileir%C3%A3o",
+               # "argentina": "/Regions/11/Tournaments/68/Argentina-Liga-Profesional",
+               # "mls": "/Regions/233/Tournaments/85/USA-Major-League-Soccer",
+               # "turkey": "/Regions/225/Tournaments/17/Turkey-Super-Lig",
+               # "russia": "/Regions/182/Tournaments/77/Russia-Premier-League"
                }
 
     BASE_URL = "https://www.whoscored.com"
@@ -165,8 +164,8 @@ if __name__ == "__main__":
     d = selenium_driver(BASE_URL, "other/geckodriver")
     # _, arg_league, s_season, e_season = list(sys.argv)
     arg_league = "ligue_1"
-    s_season = "2022/2023"
-    e_season = "2022/2023"
+    s_season = "2009/2010"  # start season
+    e_season = "2009/2010"  # end season
     get_games_data(d, leagues, arg_league, s_season, e_season)
     join_seasons_data(arg_league)
     d.close()
