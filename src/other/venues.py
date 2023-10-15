@@ -21,6 +21,8 @@ class VenueScraper:
         main_info_path = f"{self.data_dir}/games/games.csv"
         self.main_info = pd.read_csv(main_info_path)
         self.unique_venues = pd.DataFrame(self.main_info["VENUE"].unique(), columns=["VENUE"]).dropna()
+        print(self.unique_venues)
+        exit(0)
         self.full_venues = self.main_info.groupby(['VENUE', 'H_TEAM']).size().reset_index().drop(0, axis=1)
         self.chrome_driver_path = chrome_driver_path
         self.driver = None
@@ -99,10 +101,10 @@ class VenueScraper:
 
 
 if __name__ == "__main__":
-    league = "la_liga"
+    league = "ligue_1"
     data_dir = os.path.join(f"../../data/{league}")
-    chrome_driver_path = "./chromedriver"
+    chrome_driver_path = "../other/geckodriver"
     venue_scraper = VenueScraper(data_dir, chrome_driver_path, "football", "arena")
-    #venue_scraper.get_capacity_data()
+    # venue_scraper.get_capacity_data()
     #venue_scraper.get_location_data()
-    venue_scraper.merge_files()
+    # venue_scraper.merge_files()
